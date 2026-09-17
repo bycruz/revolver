@@ -1,5 +1,7 @@
 {
 	"name": "rv",
+	"authors": ["David Cruz <david@bycruz.dev>"],
+	"description": "An incredibly minimal reverse engineering tool.",
 	"version": "0.1.0",
 	"dependencies": {
 		"clap": { "git": "https://github.com/lde-org/lde" },
