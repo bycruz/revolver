@@ -1,0 +1,14 @@
+{
+	"dependencies": {
+		"ansi": {
+			"commit": "11da5b4a335feda4af3809ab55a5fb597d811cb4",
+			"git": "https://github.com/lde-org/lde"
+		},
+		"clap": {
+			"commit": "11da5b4a335feda4af3809ab55a5fb597d811cb4",
+			"git": "https://github.com/lde-org/lde"
+		}
+	},
+	"manifestHash": "41d0b46bb63446c8",
+	"version": "1"
+}
